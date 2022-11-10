@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Testing Web performance before and after website migration](https://ashokgurudayal.hashnode.dev/testing-web-performance-before-and-after-website-migration)<!-- BLOGPOSTS:END -->
+ - 🔥 [CallBack, Promises and Async/Await in JS](https://ashokgurudayal.hashnode.dev/callback-promises-and-asyncawait-in-js)
+ - 💫 [Testing Web performance before and after website migration](https://ashokgurudayal.hashnode.dev/testing-web-performance-before-and-after-website-migration)<!-- BLOGPOSTS:END -->
